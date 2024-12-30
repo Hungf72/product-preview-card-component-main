@@ -148,3 +148,9 @@
     font-family: var(--ff-accent);
     color: var(--clr-primary-400);
   }
+
+  .product__img img{
+    border-left: 2px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+  }
